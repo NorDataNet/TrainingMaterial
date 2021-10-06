@@ -1,4 +1,4 @@
-##Lecture Day 1, Monday
+## Lecture Day 1, Monday
 
 09:00-09:15 **Introduction**
 
@@ -53,7 +53,7 @@
 -    Examples of e.g. CTD profile from Seabird sensor
 -    Introduction of assignment
 
-##Lecture Day 2, Wednesday
+## Lecture Day 2, Wednesday
 
 09:00-10:15: **Presentation of assignment results and feedback**
 
@@ -67,11 +67,11 @@
 -    Data policies / Licensing
 -    Tracking usage (using DOI)
 -    Repositories:
--    NorDataNet (distributed network of data centres)
--    NIRD RDA
--    GAW repositories
--    Repositories for model data
--    Figshare
+     -    NorDataNet (distributed network of data centres)
+     -    NIRD RDA
+     -    GAW repositories
+     -    Repositories for model data
+     -    Figshare
 
 11:45-12:30: **Lunch break**
 
@@ -81,15 +81,16 @@
 -    Examples of benefits when using truly interoperable data.
 -    Interfaces: WMS, OGC API, OpenAPI, OPeNDAP, RESTful (Restful in general)
 -    Integration in tools e.g.:
--    Python
- -   R
- -   Jupyter
+     - Python
+     - R
+     - Jupyter
+
 
 13:45-14:00: **Break**
 
 14:00-15:30: **Intro to Workshop: Analysing data**
 
-##Lecture Day 3, Friday
+## Lecture Day 3, Friday
 
 09:00-10:15: **Presentation of assignment results and feedback, part1**
 
@@ -111,4 +112,4 @@
 
 14:00-15:30: **Student summary of the course, what has been useful (and not?).**
 
-[back to Documentation](../)
+[back to Documentation](./)
