@@ -1,9 +1,9 @@
-##Inspiration and bring home message
+## Inspiration and bring home message
 
 The purpose of this section is to summarize what a partecipant should have learned during the different sessions of the course. This can be open issues or questions that can be useful to address while preparing the assigments. 
 
 
-###Lecture Day 1 - Session-1
+### Lecture Day 1 - Session-1
 
 - Why increasing amounts of data is a concern? 
 - Explain how lack of data management makes an impact
@@ -18,7 +18,7 @@ The purpose of this section is to summarize what a partecipant should have learn
 	- How do you implement them in your research? 
 - How do Data Management Plans help researchers in organizing and progressing their research?
 
-###Lecture Day 1 - Session-2
+### Lecture Day 1 - Session-2
 
 - What would data be without metadata?
 	- Consider increasingly volume of data and complexity of research
@@ -34,7 +34,7 @@ The purpose of this section is to summarize what a partecipant should have learn
 	- When do you start and what do you do?
 	- What are the important aspects to remember?
 
-###Lecture Day 1 - Session-3
+### Lecture Day 1 - Session-3
 
 - What are file formats? 
 	- What to consider when we choose one? 
@@ -50,7 +50,7 @@ The purpose of this section is to summarize what a partecipant should have learn
 	- What are the advantages of using standard names? 
 	- What is a controlled vocabulary and why is it important? 
 	
-###Lecture Day 1 - Session-4
+### Lecture Day 1 - Session-4
 
 - What have you learned about data documentation? 
 	- Why is it important? 
@@ -59,7 +59,7 @@ The purpose of this section is to summarize what a partecipant should have learn
 - What is data validation and why is it important? 
 	- What can you validate in you dataset? 
 
-###Lecture Day 2 - Session-1
+### Lecture Day 2 - Session-1
 
 - Once you have a good documented dataset, why should you think about publishing a data paper about your dataset?
 	- How do you define data citation? What is is used for? 
@@ -78,7 +78,7 @@ The purpose of this section is to summarize what a partecipant should have learn
 	- How can it be used? 
 	- Do you see reasons why some data might not be made available? Tips: think of health, security and protected species
 
-###Lecture Day 2 - Session-2
+### Lecture Day 2 - Session-2
 
 - How can you interact with your data? 
 	- Why is it important to standardize access?
@@ -92,7 +92,7 @@ The purpose of this section is to summarize what a partecipant should have learn
 - Analysis and visualization tools
 	- Could you take full advantage of tools when data are not properly structured or documented?
 
-###Lecture Day 3 - Session-1
+### Lecture Day 3 - Session-1
 
 - What is data sharing within the data life cycle? 
 	- What are the benefits of sharing scientific data?
@@ -105,4 +105,4 @@ The purpose of this section is to summarize what a partecipant should have learn
 	- Do you consider important to have access to other scientists findings? 
 	- Would it make sense to use public money to do collect over and over again the same data?
 	
-[back to Documentation](../)
+[back to Documentation](./)
